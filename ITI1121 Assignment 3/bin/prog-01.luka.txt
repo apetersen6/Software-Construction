@@ -1,0 +1,16 @@
+200 200 moveto
+200 300 lineto
+300 300 lineto
+300 200 lineto
+300 200 lineto
+250 150 lineto
+200 200 lineto
+300 200 lineto
+0 280 moveto
+200 280 lineto
+300 280 moveto
+500 280 lineto
+250 300 moveto
+250 250 lineto
+270 250 lineto
+270 300 lineto
